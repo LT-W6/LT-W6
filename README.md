@@ -32,7 +32,7 @@ LT-W6 is the public layer. It exists for three reasons:
 
 | Repo | What it is |
 |------|------------|
-| [`loopscript`](https://github.com/LT-W6/Loop-Trade-DSL) | A domain-specific language for defining, validating, and scoring trade loops. Written in Rust. |
+| [`loopscript`](https://github.com/LT-W6/Trade-Loop-DSL) | A domain-specific language for defining, validating, and scoring trade loops. Written in Rust. |
 
 More repositories will be added as public-facing components mature.
 
